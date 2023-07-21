@@ -1,5 +1,5 @@
 def handler(event, context):
-    body = "Hello World New Caio"
+    body = "Hello World Eduardo"
     response = {
         "statusCode": 200,
         "statusDescription": "200 OK",
